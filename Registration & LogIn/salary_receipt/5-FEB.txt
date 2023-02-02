@@ -1,0 +1,21 @@
+		Company Name, XYZ
+		Address: XYZ,abc Road
+            --------------------------------------------------
+            Employee ID		:  5
+            Employee Name		:  sad
+            Salary of		:  FEB-2021
+            Generated on		:  10-09-22
+            --------------------------------------------------
+            Total Days		:  28salary_
+            Present Days		:  28
+            Absent Days		:  0
+            Convence		:  1555
+            Medical		:  1550
+            PF		:  1200
+            Gross Payment		:  45000
+            Net Salary		:  43805.0
+            --------------------------------------------------
+            This is a system generated receipt.
+            No signature required.
+
+    
