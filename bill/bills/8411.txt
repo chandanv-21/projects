@@ -1,0 +1,36 @@
+	 Welcome CHANDAN's Retail
+
+ Bill Number: 8411
+ Customer Name: chandan
+ Phone Number: 852741
+==============================================
+Product Name			QTY		Price
+==============================================
+Bath Soap			1		40
+Face Cream			2		70
+Face Wash			5		300
+Hair Spray			3		360
+Hair Gel			1		45
+Body Lotion			3		96
+Food Oil			3.0		294.0
+Daal			1.0		98.0
+Sugar			4.0		160.0
+Tea			3.0		306.0
+Wheat			4.0		100.0
+Maza			3		285
+Coke			1		90
+Dew			3		255
+Pepsi			1		111
+Slice			1		105
+Thums UP			5		460
+Sprite			6		240
+==============================================
+Cosmetic Amount:911.0			Cosmetic Tax:163.98
+Grocery Amount:958.0			Grocery Tax:172.44
+Cold Drink Amount:1546.0	Cold Drint Tax:278.28
+
+Total Bill Amount:  Rs. 4029.7
+==============================================
+
+	Thank you for shopping with us
+	     Have a nice day!.

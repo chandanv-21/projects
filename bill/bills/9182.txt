@@ -1,0 +1,20 @@
+	 Welcome CHANDAN's Retail
+
+ Bill Number: 9182
+ Customer Name: abn
+ Phone Number: 90i-0-
+==============================================
+Product Name			QTY		Price
+==============================================
+Rice			5.0		200.0
+Food Oil			10.0		980.0
+Coke			25		2250
+==============================================
+Grocery Amount:1180.0			Grocery Tax:212.4
+Cold Drink Amount:2250.0	Cold Drint Tax:405.0
+
+Total Bill Amount:  Rs. 4047.4
+==============================================
+
+	Thank you for shopping with us
+	     Have a nice day!.

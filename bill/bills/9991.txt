@@ -1,0 +1,17 @@
+	 Welcome CHANDAN's Retail
+
+ Bill Number: 9991
+ Customer Name: asdsvb
+ Phone Number: adsa
+==============================================
+Product Name			QTY		Price
+==============================================
+Bath Soap			11		440
+==============================================
+Cosmetic Amount:440.0			Cosmetic Tax:79.2
+
+Total Bill Amount:  Rs. 519.2
+==============================================
+
+	Thank you for shopping with us
+	     Have a nice day!.
