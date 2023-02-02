@@ -1,0 +1,21 @@
+		Company Name, XYZ
+		Address: XYZ,abc Road
+            --------------------------------------------------
+            Employee ID		:  3
+            Employee Name		:  Chandan
+            Salary of		:  DEC-2021
+            Generated on		:  10-09-22
+            --------------------------------------------------
+            Total Days		:  31salary_
+            Present Days		:  31
+            Absent Days		:  0
+            Convence		:  1800
+            Medical		:  1500
+            PF		:  2000
+            Gross Payment		:  45000
+            Net Salary		:  43300.0
+            --------------------------------------------------
+            This is a system generated receipt.
+            No signature required.
+
+    
